@@ -7,3 +7,5 @@ It seems sync whit Git. Let's test it. Is it though?
 Was working but seems off now. Why?
 Man is is working?
 Forgot to push lol...
+Ok so I think I got it.
+Wonder though why the changes are not reflected ready to stage?
