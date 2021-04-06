@@ -21,3 +21,4 @@ Ok I will make some changes in the middlle and see where it brings us...
 
 trying a git commit --amend. it did not work.
 
+Here I am again. This time I will try rebase instead of merge. Concept that I struggle to grasp so far.
