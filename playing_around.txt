@@ -3,3 +3,5 @@ Let's make some changes yay yay yay...
 We've branched it mate. Let's see where it brings us.
 Yo yo.
 I would like to raise a concern on this branch.
+It seems sync whit Git. Let's test it. Is it though?
+Was working but seems off now. Why?
