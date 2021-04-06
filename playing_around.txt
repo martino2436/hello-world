@@ -16,8 +16,6 @@ on another branch....
 let's try something...
 
 Let's try with fetch instead...
-<<<<<<< HEAD
 
 trying a git commit --amend. it did not work.
-=======
->>>>>>> 8c81cdda4c27d0556f34d903f1c92d2476eaa563
+
