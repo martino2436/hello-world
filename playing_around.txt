@@ -24,3 +24,5 @@ trying a git commit --amend. it did not work.
 Here I am again. This time I will try rebase instead of merge. Concept that I struggle to grasp so far.
 
 Need to start from the master apparently to rebase.
+
+Yo yo what does merge do?
